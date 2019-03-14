@@ -4,7 +4,7 @@
 
  ## 演示
 
-![vue-tab]()
+![vue-tab](https://raw.githubusercontent.com/duanxb/vue-tab/master/vue-tab.gif)
 
 #### Code DEMO
 ```html
